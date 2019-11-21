@@ -9,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rchidana/NodeApp"
+    "url": "https://github.com/krishn1952App"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
+    "krishna"
   ],
   "author": "crudsinfotechng@gmail.com",
   "license": "ISC",
